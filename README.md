@@ -2,7 +2,7 @@
 
 - Sou estudante de TI
 
-![Catarina Bani's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinabani&show_icons=true)
+![catarinabani's GitHub stats](https://github-readme-stats.vercel.app/api?username=catarinabani&show_icons=true)
 
 
 <div style="display: inline_block"><br>
